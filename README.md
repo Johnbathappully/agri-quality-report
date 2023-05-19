@@ -12,3 +12,10 @@ IMAGE CLASSES AFTER AUTO LABELING
 ![08raw-immature](https://github.com/Johnbathappully/agri/assets/114779060/1effbf80-172b-4d41-9b1a-8a6a57d2009c)
 ![09stones](https://github.com/Johnbathappully/agri/assets/114779060/9e5d825e-e174-4c52-b8ef-6a6085ae6607)
 ![10woods](https://github.com/Johnbathappully/agri/assets/114779060/2c471a18-4c99-422d-b607-5a0019b2b656)
+
+
+REMOVING BACKGROUND THROUGH SEGMENTATION
+
+![REMOVING BACKGROUND](https://github.com/Johnbathappully/agri/assets/114779060/b361c84e-791e-4937-83fa-387248365010)
+![BACK2](https://github.com/Johnbathappully/agri/assets/114779060/886d6ec3-49c6-489d-ae01-9fc60a3314f5)
+
