@@ -19,6 +19,15 @@ REMOVING BACKGROUND THROUGH SEGMENTATION
 ![REMOVING BACKGROUND](https://github.com/Johnbathappully/agri/assets/114779060/b361c84e-791e-4937-83fa-387248365010)
 ![BACK2](https://github.com/Johnbathappully/agri/assets/114779060/886d6ec3-49c6-489d-ae01-9fc60a3314f5)
 
+MAKE IT RESILENT TO ANY BACKGROUND BY MASKING WITH ALL COLOR CHANGE
+
+
+![BACK115](https://github.com/Johnbathappully/agri/assets/114779060/13a1b553-8f02-4e06-98d5-1a897cf70b44)
+![BACK128](https://github.com/Johnbathappully/agri/assets/114779060/db566244-ae34-4900-aa8a-25909f523f49)
+![BACK239](https://github.com/Johnbathappully/agri/assets/114779060/fd788b6d-d10e-4de4-9f35-f89cac4720db)
+![BACK248](https://github.com/Johnbathappully/agri/assets/114779060/52964b31-37a6-44d0-b102-d3b8fcd51c7d)
+![BACK376](https://github.com/Johnbathappully/agri/assets/114779060/bbcfb6a5-382c-4a58-9015-99840e0dfc7c)
+
 ADJUSTING BOUNDING BOX BY USING CUSTOM MADE MOSAIC AUGEMENTATION
 
 ![MOSAIC AUGEMENTATION](https://github.com/Johnbathappully/agri/assets/114779060/09729925-3f55-4f59-9c10-e204a6a22ad5)
