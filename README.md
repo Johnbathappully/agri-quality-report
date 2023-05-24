@@ -50,6 +50,8 @@ inference/testing
 
 ![ver](https://github.com/Johnbathappully/agri/assets/114779060/4538bfcd-3325-453f-9f9d-d7dfe0543a91)
 
-![test](https://github.com/Johnbathappully/agri/assets/114779060/f85db6c1-7446-4208-89b5-f563bfdfe3f8)
+
+![test](https://github.com/Johnbathappully/agri/assets/114779060/181af343-1efc-4554-bfc6-6b25ba4caf40)
+
 
 
