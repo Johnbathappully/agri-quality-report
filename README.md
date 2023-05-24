@@ -35,7 +35,9 @@ ADJUSTING BOUNDING BOX BY USING CUSTOM MADE MOSAIC AUGEMENTATION
 REACHING 94 PERCENT ACCURACY BY YOLOV8 VIA AUGEMENTING WITH PIXEL /SPATIAL LEVEL TRANSFORMS (WHILE ADJUSTING BOUNDING BOX)WITH ONLY 500 IMAGES (AUTO TAGGED USING API)
 
 
-![proofacc](https://github.com/Johnbathappully/agri/assets/114779060/ec83b551-38a2-4aad-ba1d
+![proofacc](https://github.com/Johnbathappully/agri/assets/114779060/1270f901-bf34-4e2d-98f3-91e3a1415b7f)
+
+
 
 ![download](https://github.com/Johnbathappully/agri/assets/114779060/4d889e74-16ce-4506-be0c-7fddc6cb463a)
 -ece5230002e5)
