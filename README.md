@@ -36,5 +36,12 @@ REACHING 80 PERCENT ACCURACY BY YOLOV8 VIA AUGEMENTING WITH PIXEL /SPATIAL LEVEL
 
 ![Screenshot (4082)](https://github.com/Johnbathappully/agri/assets/114779060/1c436ce4-97b3-431e-8cc6-758f9ce523d6)
 
+![proofacc](https://github.com/Johnbathappully/agri/assets/114779060/ec83b551-38a2-4aad-ba1d
+![download](https://github.com/Johnbathappully/agri/assets/114779060/4d889e74-16ce-4506-be0c-7fddc6cb463a)
+-ece5230002e5)
+![download (1)](https://github.com/Johnbathappully/agri/assets/114779060/3f30699e-24ef-4e88-83cb-7387d06c6ca3)
+![ver](https://github.com/Johnbathappully/agri/assets/114779060/4538bfcd-3325-453f-9f9d-d7dfe0543a91)
+
+
 
 
