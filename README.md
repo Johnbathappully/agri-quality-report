@@ -37,12 +37,16 @@ REACHING 94 PERCENT ACCURACY BY YOLOV8 VIA AUGEMENTING WITH PIXEL /SPATIAL LEVEL
 
 ![proofacc](https://github.com/Johnbathappully/agri/assets/114779060/1270f901-bf34-4e2d-98f3-91e3a1415b7f)
 
-
+confusion matrix
 
 ![download](https://github.com/Johnbathappully/agri/assets/114779060/4d889e74-16ce-4506-be0c-7fddc6cb463a)
 -ece5230002e5)
 
+result curve
+
 ![download (1)](https://github.com/Johnbathappully/agri/assets/114779060/3f30699e-24ef-4e88-83cb-7387d06c6ca3)
+
+inference/testing
 
 ![ver](https://github.com/Johnbathappully/agri/assets/114779060/4538bfcd-3325-453f-9f9d-d7dfe0543a91)
 
