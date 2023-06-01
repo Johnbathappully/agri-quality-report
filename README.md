@@ -1,6 +1,6 @@
-# QUALITY REPORT OF GRAINS
+# QUALITY REPORT OF GRAIN
 
-IMAGE CLASSES AFTER AUTO LABEl
+IMAGE CLASSES AFTER AUTO LABEL
 
 ![01broken](https://github.com/Johnbathappully/agri/assets/114779060/33bcd609-5be6-427c-a8f9-2e4d29e8f1b6)
 ![02discolored](https://github.com/Johnbathappully/agri/assets/114779060/c67c52a8-4a6e-4289-ba4b-47ebb64ceb78)
