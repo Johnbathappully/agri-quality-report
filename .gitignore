@@ -2,10 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-artifact
-.vscode
+
 # C extensions
 *.so
+
+.terraform.lock.hcl
+
+.terraform
 
 # Distribution / packaging
 .Python
@@ -27,7 +30,6 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
-saved_models/*
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -129,3 +131,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Untitled.ipynb
+artifacts

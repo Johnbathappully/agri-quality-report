@@ -1,8 +1,9 @@
-artifact
-saved_models
-venv
-docs
-flowcharts
-notebooks
+env/
 .git
-aps_failure_training_set1.csv
+.gitignore
+.github
+docs
+infrastructure
+face.drawio
+LICENSE
+README.md
