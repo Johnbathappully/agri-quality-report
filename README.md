@@ -1,7 +1,6 @@
  
 
-## Run the Application
-Before we run the project, make sure that you are having MongoDB in your local system, with Compass since we are using MongoDB for data storage. You also need Azure account to access the service like ACS and App services.
+ 
 
 ### Step 1-: Clone the Repository
 ```
